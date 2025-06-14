@@ -1,1 +1,1 @@
-# Challenge_2
+Este desafío tiene el objetivo de analizar la información del data frame, procesarla y graficarla para emitir una sugerencia respecto a qué tienda conviene cerrar.
